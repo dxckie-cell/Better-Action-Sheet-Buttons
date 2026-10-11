@@ -3,5 +3,6 @@
   "description": "Hide buttons (Apps, Mark Unread, etc.) in the message long-press action sheet.",
   "authors": [{ "name": "you" }],
   "main": "index.js",
+  "hash": "v1",
   "vendetta": { "icon": "ic_message_edit" }
 }
