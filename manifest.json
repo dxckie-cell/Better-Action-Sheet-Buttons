@@ -1,8 +1,0 @@
-{
-  "name": "BetterActionSheetButtons",
-  "description": "Hide buttons (Apps, Mark Unread, etc.) in the message long-press action sheet.",
-  "authors": [{ "name": "dxckie cell" }],
-  "main": "index.js",
-  "hash": "v3",
-  "vendetta": { "icon": "ic_message_edit" }
-}
